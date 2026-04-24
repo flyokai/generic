@@ -2,14 +2,13 @@
     "name": "flyokai/generic",
     "description": "Generics definitions",
     "require": {
-        "flyokai/amphp-injector": "dev-master"
+        "flyokai/amphp-injector": "dev-dev@dev"
     },
     "license": [
         "MIT"
     ],
     "autoload": {
-        "files": [
-        ],
+        "files": [],
         "psr-4": {
             "Flyokai\\Generic\\": "src/"
         }
