@@ -1,5 +1,7 @@
 # flyokai/generic
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 PHP generics/strong typing support using PHPDoc `@template` syntax. Provides builder, tuner, and execution pipeline patterns.
 
 ## Key Abstractions
@@ -27,7 +29,7 @@ Factory: `fromParameter(string)`.
 
 ## Integration
 
-- Depends on `wtsergo/amphp-injector` for Composition class
+- Depends on `flyokai/amphp-injector` for Composition class
 - Used by `flyokai/symfony-console` (InputState implements State\<InputInterface\>)
 - Foundation for builder/pipeline/composition patterns across the ecosystem
 
