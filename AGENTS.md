@@ -1,5 +1,7 @@
 # flyokai/generic
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 PHP generics/strong typing support using PHPDoc `@template` syntax. Provides builder, tuner, and execution pipeline patterns.
 
 ## Key Abstractions
