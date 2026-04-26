@@ -2,7 +2,7 @@
     "name": "flyokai/generic",
     "description": "Generics definitions",
     "require": {
-        "flyokai/amphp-injector": "dev-dev@dev"
+        "flyokai/amphp-injector": "^1"
     },
     "license": [
         "MIT"
